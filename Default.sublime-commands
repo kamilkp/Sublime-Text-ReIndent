@@ -1,0 +1,4 @@
+[
+    { "caption": "ReIndent: to 2", "command": "re_indent_to_two" },
+    { "caption": "ReIndent: to 4", "command": "re_indent_to_four" }
+]
